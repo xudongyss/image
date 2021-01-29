@@ -1,0 +1,18 @@
+{
+    "name": "xudongyss/image",
+    "description": "Image processing Base ThinkPHP3.2.3 Image processing",
+    "type": "library",
+    "authors": [
+        {
+            "name": "xudongyss",
+            "email": "xudong.yss@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "XuDongYss\\Image\\": "src/"
+        }
+    }
+}
